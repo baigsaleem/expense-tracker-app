@@ -19,6 +19,7 @@ const App = () => {
               <BalanceSummary />
               <TransactionHistory />
               <AddTransaction />
+              <Footer />
             </div>
           </div>
         </div>
