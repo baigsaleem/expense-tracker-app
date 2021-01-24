@@ -5,7 +5,8 @@ import { Balance } from './Balance';
 import BalanceSummary from './BalanceSummary';
 import AddTransaction from './AddTransaction';
 import { TransactionProvider } from './TransactionContext';
-import TransactionHistory from './TransactionHistory'
+import TransactionHistory from './TransactionHistory';
+import Footer from './Footer'
 
 const App = () => {
   return (
